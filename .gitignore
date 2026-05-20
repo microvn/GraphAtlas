@@ -22,3 +22,14 @@ docs/
 spike/
 grammars/
 plan_oss.md
+
+# Throwaway UI prototypes — superseded by ui/
+prototype/
+prototype-react/
+
+# Build output
+dist/
+
+# Debug screenshots
+*.png
+.playwright-mcp/
